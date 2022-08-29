@@ -16,7 +16,6 @@ Visit my [website](https://starknt.me/)
 <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=starknt&show_icons=true&count_private=true&hide_border=true" align="left" style="margin-right: 0.5rem;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starknt&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=starknt&show_icons=true&theme=radical" align="left" style="margin-right: 0.5rem;" />
 
 
